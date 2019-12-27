@@ -1,0 +1,20 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(bg.jpeg);
+    
+}
+
+section{
+         background-color:black;
+        width: 21%;
+        height:100%;
+        margin-left: 40%;
+        opacity: 0.8;
+        top:0;
+        position: absolute;
+}
+
+audio{
+    border-radius: 40px;
+}
